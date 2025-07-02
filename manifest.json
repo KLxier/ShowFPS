@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "实时查看你的游戏帧数\nBy §bKLXIER",
+        "name": "ShowFPS",
+        "uuid": "35b5c69b-e3e7-4100-8a12-1cfe5f4f6577",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description":"§bKLXIER",
+            "type": "resources",
+            "uuid": "3fc9adf1-670f-4068-8947-882363a5e90d",
+            "version": [1, 0, 0]
+        }
+    ]
+}
